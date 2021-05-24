@@ -1,0 +1,283 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.mainclass {
+    display: flex;
+    border: solid#808080;
+    background-color:  #e6ffff;
+    margin:50px;
+    padding-right: 50px;
+    width: 2000px;
+    height: 900px;   
+}
+
+.subclass-1 {
+    flex:1;
+  
+}
+
+.maintag-2 {
+    margin: 100px 0 0 50px;
+    background-color: ivory;
+    height: 400px;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: flex;
+   
+}
+
+
+.subtag-2 button{
+        width: 100px;
+        padding: 10px;
+        text-transform: uppercase;
+        border: solid black;
+        border-color: none;
+        background-color: #9933ff;
+        box-shadow:0 0 20px #9933ff;
+        border-radius: 5px;
+        transition: all 0.5s;
+  
+    
+}
+
+
+.growth-img {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+
+
+.growth-img img {
+    width:270px;
+    height: 200px;
+}
+
+
+.main {
+    display: flex;
+}
+
+.info img {
+    width: 100px;
+}
+
+
+
+.info {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.Data img {
+    width: 100px;
+}
+
+
+.Data {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+
+
+.add  img {
+    width: 100px;
+
+
+}
+
+.add {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+
+
+
+.time img {
+    width: 100px;
+}
+
+.dm img {
+    width: 100px;
+}
+
+
+
+.subtag-2 button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 40px #b30086;
+    background-color: #b30086;
+    color:#e6eeff;
+
+
+}
+
+
+
+
+.subclass-2 {
+    flex:1;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    font-size: 0.5rem;
+     
+
+}
+.working{
+    font-size: 1rem;
+    margin-top:200px;
+    margin-left: 50px;
+}
+
+
+
+.subclass-3 {
+    flex:1;
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+.im  img{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.btn {
+    margin-top: 20px;
+}
+.btn button {
+    width: 100px;
+    padding: 10px;
+    text-transform: uppercase;
+    border: solid black;
+    border-color: none;
+    background-color: #9933ff;
+    box-shadow:0 0 20px #9933ff;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+
+.btn button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 40px #b30086;
+    background-color: #b30086;
+    color:#e6eeff;
+
+
+}
+.mainclass-2{
+    display: flex;
+    border: solid#808080;
+    background-color:  #e6ffff;
+    margin: 50px;
+    padding-right: 50px;
+    height: 500px;  
+    width: 2000px; 
+}
+
+.container-1{
+    margin-top: 20px;
+    flex:1;
+    margin-left: 50px;
+}
+
+
+
+
+.container-1 img {
+    width: 200px;
+    margin-left: 100px;
+}
+.subscribe {
+    flex:1;
+}
+.container{
+    flex: 1;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mobile {
+    margin-top:100px ;
+    
+}
+
+.mobile button {
+    width: 100px;
+    padding: 10px;
+    text-transform: uppercase;
+    border: solid black;
+    border-color: none;
+    background-color: #9933ff;
+    box-shadow:0 0 20px #9933ff;
+    border-radius: 5px;
+    transition: all 0.5s;
+
+
+}
+
+
+.mobile button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 40px #b30086;
+    background-color: #b30086;
+    color:#e6eeff;
+
+}
+
+
+
+
+
+.container-2 img {
+    margin-top: 50px;
+    width:250px;
+    
+}
+
+
+.bt  button{
+    
+    width: 150px;
+    padding: 10px;
+    text-transform: uppercase;
+    border: solid black;
+    border-color: none;
+    background-color: #9933ff;
+    box-shadow:0 0 20px #9933ff;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+
+.bt button:hover {
+        cursor: pointer;
+        box-shadow: 0 0 40px #b30086;
+        background-color: #b30086;
+        color:#e6eeff;
+}
+
+
+.place img{
+    margin-top: 100px;
+    width: 200px;
+}
