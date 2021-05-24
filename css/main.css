@@ -111,10 +111,13 @@ body{
 
 .ig img {
     width: 300px;
+  
 
 }
 
-
+.ig {
+    margin-right: 300px;
+}
 
 
 
