@@ -170,6 +170,7 @@ body{
 .btn button {
     width: 100px;
     padding: 10px;
+    margin-right:50px;
     text-transform: uppercase;
     border: solid black;
     border-color: none;
